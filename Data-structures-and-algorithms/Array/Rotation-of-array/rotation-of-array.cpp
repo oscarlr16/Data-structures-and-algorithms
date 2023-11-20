@@ -1,7 +1,5 @@
-#include "rotation-of-array.h"
 #include <iostream>
-
-void release_memory(int* arr);
+#include "rotation-of-array.h"
 
 int main(){
 
